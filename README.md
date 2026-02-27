@@ -1,3 +1,3 @@
 # awesome-offsec-claude
-Claude SKILLs for for reconnaissance, vulnerability analysis, and exploitation support.
 
+Claude-focused offensive security skills for reconnaissance, code review, API/web testing, binary analysis, and exploit validation.
